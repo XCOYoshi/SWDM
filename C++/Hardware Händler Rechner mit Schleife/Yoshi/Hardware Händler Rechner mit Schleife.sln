@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33927.249
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hardware Händler Rechner mit Schleife", "Hardware Händler Rechner mit Schleife.vcxproj", "{BE934D92-17F7-44CE-A11B-153D4C752920}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE934D92-17F7-44CE-A11B-153D4C752920}.Debug|x64.ActiveCfg = Debug|x64
+		{BE934D92-17F7-44CE-A11B-153D4C752920}.Debug|x64.Build.0 = Debug|x64
+		{BE934D92-17F7-44CE-A11B-153D4C752920}.Debug|x86.ActiveCfg = Debug|Win32
+		{BE934D92-17F7-44CE-A11B-153D4C752920}.Debug|x86.Build.0 = Debug|Win32
+		{BE934D92-17F7-44CE-A11B-153D4C752920}.Release|x64.ActiveCfg = Release|x64
+		{BE934D92-17F7-44CE-A11B-153D4C752920}.Release|x64.Build.0 = Release|x64
+		{BE934D92-17F7-44CE-A11B-153D4C752920}.Release|x86.ActiveCfg = Release|Win32
+		{BE934D92-17F7-44CE-A11B-153D4C752920}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A86CFF19-E7EC-4EC0-854C-248B9B1EF71D}
+	EndGlobalSection
+EndGlobal
