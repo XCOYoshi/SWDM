@@ -105,6 +105,7 @@ int main()
 
 		cout << "Nochmal mal mit der seilben kategorie rechnen [True, Y, Yes, Ja]" << endl;
 		cin >> neustart;
+
 		if (neustart == "true" || neustart == "y" || neustart == "yes" || neustart == "ja" || neustart == "True" || neustart == "Y" || neustart == "Yes" || neustart == "Ja")
 		{
 			again = true;
