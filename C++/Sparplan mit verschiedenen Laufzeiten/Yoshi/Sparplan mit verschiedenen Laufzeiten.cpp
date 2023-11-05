@@ -16,7 +16,7 @@ int main()
 	while (angelegteskapital > 0){
 
 		// Eingabe Laufzeit
-		cout << "Wie Lange L\x81ft der Sparplan in jahren: ";
+		cout << "Wie Lange L\x81"<<"ft der Sparplan in jahren: ";
 		cin >> jahre;
 		
 		// Ermittlung Zinssatz
